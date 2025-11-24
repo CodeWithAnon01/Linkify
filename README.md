@@ -56,4 +56,7 @@ While real-world apps use distributed systems, complex databases, and AI algorit
 g++ -std=c++17 -o linkify main.cpp User/User.cpp Post/Post.cpp Feed/Feed.cpp Network/Network.cpp Authentication/userAccount.cpp Authentication/passwordManager.cpp Database/databaseManager.cpp
 
 ./linkify
+<img width="2816" height="1536" alt="Linkify_logo" src="https://github.com/user-attachments/assets/cd1ae1b1-94e3-4286-a2be-ba1b13615a2d" />
+
+
 ```
